@@ -66,10 +66,3 @@ Fornecer uma ferramenta analítica que permita às empresas:
 - Treemap → Lucro por Segmento  
 
 ---
-
-## 🧮 Medidas DAX Criadas  
-
-```DAX
-LucroTotal = SUM('Financeiro'[Profit])
-
-Trimestre = "Q" & FORMAT(QUARTER('Financeiro'[Date]), "0")
