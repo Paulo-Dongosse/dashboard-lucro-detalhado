@@ -4,6 +4,12 @@ Este projeto apresenta um **dashboard interativo em Power BI**, desenvolvido par
 A solução foi construída como parte de um desafio de formação, com foco em **visualizações estratégicas** e **exploração dinâmica dos dados**.  
 
 ---
+#### Link do Dashboard para visualização em tempo real
+
+🔗 [Acesse o Dashboard Interativo no Power BI](https://app.powerbi.com/groups/me/reports/9b059736-1800-4cfd-a537-1755f3f43ca4/eb8fa38cd67154151d4c?bookmarkGuid=b62cd3c7-f09d-4437-807e-c35a68471751&bookmarkUsage=1&ctid=3fedf2f7-4b56-4eb0-b3eb-46577b2a3f9e&portalSessionId=1e000c28-56f6-4424-9fae-f1eff27b53c8&fromEntryPoint=export)  
+
+Este projeto apresenta um **dashboard interativo em Power BI**, desenvolvido para análise detalhada de **vendas e lucros empresariais**.  
+
 
 ## 🎯 Objetivo do Projeto  
 
